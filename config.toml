@@ -2,6 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-paginate=3
+paginate=6
 
 theme="elephants"

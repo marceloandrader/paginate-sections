@@ -1,4 +1,4 @@
 ---
 title: Section 2
-url: /section/two
+url: /sections/two
 ---
